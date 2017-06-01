@@ -1,0 +1,118 @@
+nav{
+  padding: 1%;
+}
+li{
+  font-size:20px;
+}
+h2{
+  padding:10px;
+}
+#about_body{
+  text-align:center;
+  color: white;
+  padding:60px;
+  font-size:20px;
+  background-color:#000000;
+}
+#box{
+  padding-left:10%;
+  padding-right:10%;
+  color:white;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/52/New_York_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+#wiener{
+  padding:5px;
+}
+.portfolio_body{
+  text-align:center;
+  color: white;
+  background-color:#000000;
+  padding:50px;
+  padding-left:115px;
+  
+}
+.pic{
+    position: absolute;
+    top: -9999px;
+    bottom: -9999px;
+    left: -9999px;
+    right: -9999px;
+    margin: auto;
+}
+.thumbnail{
+      width: 200px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+}
+.port-text{
+  color:black;
+}
+.contact_body{
+  text-align:left;
+  color: white;
+  background-color:#000000;
+  padding:50px; 
+  //padding-right:50px;
+  //padding-bottom:350px;
+}
+input{
+    width:100%;
+    color: black!important;
+  }
+textarea{
+  width:100%;
+  color: black!important;
+}
+button{
+  background-color:black;
+}
+.message_info{
+  color: white;
+  font-size:25px;
+  text-align:center;
+}
+.soc{
+  padding-bottom:10px;
+}
+.socials{
+width:50px;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+}
+img:hover {
+  -webkit-filter: grayscale(0%);
+  -webkit-transition: .5s ease-in-out;
+  -moz-filter: grayscale(0%);
+  -moz-transition: .5s ease-in-out;
+  -o-filter: grayscale(0%);
+  -o-transition: .5s ease-in-out;
+}
+.back{
+  background-color:#000000!important;
+  padding:10px;
+}
+.center{
+  text-align:center;
+}
+.bot{
+  color:white;
+  text-align: justify; 
+  text-align: center;
+}
+body{
+  position:relative;
+}
+#about{
+  padding-top:50px;
+}
+#portfolio{
+  padding-top:50px;
+}
+#contact{
+  color:white;
+  padding-top:50px;
+}
