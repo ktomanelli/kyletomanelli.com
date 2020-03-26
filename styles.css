@@ -35,3 +35,9 @@ a {
   color: inherit;
   text-decoration: none;
 }
+@media only screen and (max-width: 500px) {
+  .center {
+    margin: 0;
+    width: 90%;
+  }
+}
