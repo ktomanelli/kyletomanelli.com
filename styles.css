@@ -38,6 +38,9 @@ a {
 @media only screen and (max-width: 500px) {
   .center {
     margin: 0;
-    width: 90%;
+    width: 95%;
+  }
+  #links {
+    width: 95%;
   }
 }
